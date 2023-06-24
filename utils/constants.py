@@ -1,0 +1,2 @@
+QUESTION_TYPES = ['KoRC-' + item for item in ['H', 'T', 'L']]
+DEFAULT_QUESTION_TYPE = QUESTION_TYPES[0]
